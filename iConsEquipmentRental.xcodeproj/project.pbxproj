@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8608A0A427E79B59003B0EB5 /* fuck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8608A0A327E79B59003B0EB5 /* fuck.swift */; };
 		86E6EF7227D12EB50081BC76 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 86E6EF7127D12EB50081BC76 /* FirebaseAnalytics */; };
 		86E6EF7427D12EB50081BC76 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 86E6EF7327D12EB50081BC76 /* FirebaseAuth */; };
 		86E6EF7627D12EB50081BC76 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 86E6EF7527D12EB50081BC76 /* FirebaseFirestore */; };
@@ -70,6 +71,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8608A0A327E79B59003B0EB5 /* fuck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fuck.swift; sourceTree = SOURCE_ROOT; };
 		86E6EF8327D12ED80081BC76 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		86E6EF8527D12ED80081BC76 /* BottomTabView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BottomTabView.swift; sourceTree = "<group>"; };
 		86E6EF8627D12ED80081BC76 /* ProfileInfoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileInfoView.swift; sourceTree = "<group>"; };
@@ -308,6 +310,7 @@
 			isa = PBXGroup;
 			children = (
 				86E6EFD127D12EE80081BC76 /* StudentHomeViewModel.swift */,
+				8608A0A327E79B59003B0EB5 /* fuck.swift */,
 			);
 			path = Student;
 			sourceTree = "<group>";
@@ -518,6 +521,7 @@
 				86E6EFB527D12ED80081BC76 /* HorizontalItemsView.swift in Sources */,
 				86E6EFBA27D12ED80081BC76 /* StudentRecentsView.swift in Sources */,
 				86E6EFD827D12EE80081BC76 /* RootViewModel.swift in Sources */,
+				8608A0A427E79B59003B0EB5 /* fuck.swift in Sources */,
 				86E6EFBC27D12ED80081BC76 /* iConHomeView.swift in Sources */,
 				86E6EFC327D12ED80081BC76 /* SecondButtonView.swift in Sources */,
 				86E6EFCB27D12ED80081BC76 /* SigninButtonView.swift in Sources */,
