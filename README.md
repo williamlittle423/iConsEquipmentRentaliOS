@@ -15,4 +15,4 @@ The University iOS Application is designed to provide students and faculty with 
 - **Renting Tracker:** Stay updated where each rental is currently at and communicate with students if items are needed.
 - **Student-iCon Communication:** Provides a communication platform for students to communicate with iCons
 
-## Screenshots
+![Screenshot 1](iCons_Git_Cover.png)
